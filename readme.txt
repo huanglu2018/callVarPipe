@@ -1,0 +1,1 @@
+cd ~/data/GWAS_Lu/input/fq_link; ls *.fq.gz| sed s/_1.fq.gz//g | sed s/_2.fq.gz//g | sort | uniq | head -n 100 > /sharedata/home/huanglu/data/GWAS_Lu/run1_1/list1.txt

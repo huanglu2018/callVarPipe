@@ -1,0 +1,10 @@
+input_dir:
+    "/sharedata/home/huanglu/data/GWAS_Lu/input/fq_link"
+out_dir:
+    "/sharedata/home/huanglu/data/GWAS_Lu/run1_1"
+refGenome_path:
+    "/sharedata/home/huanglu/data/genome/fuhuasheng/GCA_004170445.1_ASM417044v1_genomic.fa"
+fq_id_txt:
+    "/sharedata/home/huanglu/data/GWAS_Lu/run1_1/list1.txt"
+trim_adaptor_path:
+    "/sharedata/home/huanglu/anaconda3/envs/snakemake/share/trimmomatic-0.39-2/adapters/TruSeq3-PE-2.fa"
